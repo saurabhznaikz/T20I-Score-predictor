@@ -1,5 +1,7 @@
 # T20I-Score-predictor
 
+![](https://user-images.githubusercontent.com/52929512/193523933-dd8aca4e-2f96-41df-a659-05022a800d53.gif)
+
 ## About project
 This is a classic Machine learing problem based Regression problem which depends on various inputs to give a output in form a numerical form,in this case in form total score prediction.
 
