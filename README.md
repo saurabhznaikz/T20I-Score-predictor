@@ -2,6 +2,8 @@
 
 ![](https://user-images.githubusercontent.com/52929512/193523933-dd8aca4e-2f96-41df-a659-05022a800d53.gif)
 
+## [Click this link to checkout the demo of this application](https://saurabhznaikz-t20i-score-predictor-app-ytgn1h.streamlit.app/)
+
 ## About project
 This is a classic Machine learing problem based Regression problem which depends on various inputs to give a output in form a numerical form,in this case in form total score prediction.
 
